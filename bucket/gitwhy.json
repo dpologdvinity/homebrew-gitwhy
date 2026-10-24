@@ -1,0 +1,22 @@
+{
+    "version": "0.8.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.8.1/gitwhy_0.8.1_windows_amd64.zip",
+            "bin": [
+                "gitwhy.exe"
+            ],
+            "hash": "bd7de8cfc417767e38b9de17d8e40ef600c72be53f325a7f1483e3e028fd3249"
+        },
+        "arm64": {
+            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.8.1/gitwhy_0.8.1_windows_arm64.zip",
+            "bin": [
+                "gitwhy.exe"
+            ],
+            "hash": "54a93680f8ae2481aef437c25869fe9dddb7613583b5760d568300f523279964"
+        }
+    },
+    "homepage": "https://github.com/dpologdvinity/gitwhy",
+    "license": "MIT",
+    "description": "Do anything with git without looking it up, with previews and undo"
+}
