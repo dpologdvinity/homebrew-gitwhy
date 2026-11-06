@@ -1,19 +1,19 @@
 {
-    "version": "0.9.3",
+    "version": "0.9.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.9.3/gitwhy_0.9.3_windows_amd64.zip",
+            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.9.4/gitwhy_0.9.4_windows_amd64.zip",
             "bin": [
                 "gitwhy.exe"
             ],
-            "hash": "a2b0e5c8c8468ed74f277af79c1c28ddb10e6ad326e56ca1d1e7c58d9d1ded65"
+            "hash": "e54b74f054e67919a72bef7987d7cf28b157634f3f01c9aa8cc4d5c1844a2a71"
         },
         "arm64": {
-            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.9.3/gitwhy_0.9.3_windows_arm64.zip",
+            "url": "https://github.com/dpologdvinity/gitwhy/releases/download/v0.9.4/gitwhy_0.9.4_windows_arm64.zip",
             "bin": [
                 "gitwhy.exe"
             ],
-            "hash": "0e658dbbb608f3b9c6a2273fc8c5c3c78bd8727b849fcd63249cca898edb2fd6"
+            "hash": "60b56927ea774bce76f716386a5321be50394f14847aa92ce162a7a3522368b6"
         }
     },
     "homepage": "https://github.com/dpologdvinity/gitwhy",
